@@ -2,8 +2,8 @@
 
 class toon {
     
-    private $username = "eclemcke@gmail.com";
-    private $password = "lemcke1508";
+    private $username = "";
+    private $password = "";
       
     private $clientId;
     private $clientIdChecksum;
